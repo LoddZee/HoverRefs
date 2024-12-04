@@ -13,5 +13,8 @@ This is a google extension. To install a google extension locally:
 ## List Of Things To Add
 - Image Sizes (Height, Width, File Size)
 
+## Things To Change
+- Maybe format the files to be clean. Folder for images, folder for content.js, etc etc.
+
 ## List Of Bugs
 - Using HTags after will result in that hover link being removed. Need a way to dynamically generate.
