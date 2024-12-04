@@ -10,8 +10,9 @@ This is a google extension. To install a google extension locally:
 5. Select the entire HoverRefs folder to upload.
 6. Profit!
 
-## List Of Things To Add
+## List Of Things To Add Or Ideas
 - Image Sizes (Height, Width, File Size)
+- Broken Link Checker
 
 ## Things To Change
 - Maybe format the files to be clean. Folder for images, folder for content.js, etc etc.
