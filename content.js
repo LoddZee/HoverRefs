@@ -17,23 +17,6 @@ const showHrefBox = (link) => {
 
   if (displayHref === "#" || displayHref === "") return;
 
-  const pageUrl = window.location.pathname; // Gets the path from the current URL
-  const segments = pageUrl.split('/'); // Split the path into segments
-  // Return the slug up to the last part (excluding trailing segment if it exists)
-  const pageSlug = '/' + segments.slice(1, -1).join('/');
-
-  const pageSlugSegments = pageSlug.split('/');
-  const displayHrefSegments = displayHref.split('/');
-
-  // Find the first difference
-  let i = 0;
-  while (i < displayHrefSegments.length && i < pageSlugSegments.length 
-    && displayHrefSegments[i] === pageSlugSegments[i]) {
-      i++;
-  }
-
-  displayHref = '/' + displayHrefSegments.slice(i).join('/');
-
   const questionIndex = displayHref.indexOf('?');
   const hashIndex = displayHref.indexOf('#');
 
