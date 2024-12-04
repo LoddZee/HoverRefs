@@ -9,3 +9,9 @@ This is a google extension. To install a google extension locally:
 4. Click on `Load Unpacked` button.
 5. Select the entire HoverRefs folder to upload.
 6. Profit!
+
+## List Of Things To Add
+- Image Sizes (Height, Width, File Size)
+
+## List Of Bugs
+- Using HTags after will result in that hover link being removed. Need a way to dynamically generate.
