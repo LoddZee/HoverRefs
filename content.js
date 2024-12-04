@@ -29,6 +29,8 @@ const showHrefBox = (link) => {
       displayHref = displayHref.slice(0, questionIndex);
     }
   }
+  const previewPattern = /site\/[a-z0-9]*\//g;
+  displayHref = displayHref.replace(previewPattern, "");
 
   if (displayHref === "/") { displayHref = "Home"; }
 
