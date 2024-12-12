@@ -13,6 +13,7 @@ This is a google extension. To install a google extension locally:
 ## List Of Things To Add Or Ideas
 - Image Sizes (Height, Width, File Size)
 - Broken Link Checker
+- Highlight Links (Toggle)
 
 ## Things To Change
 - Redesign the popup so that it's more clean and modular.
