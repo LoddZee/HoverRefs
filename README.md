@@ -14,6 +14,7 @@ This is a google extension. To install a google extension locally:
 - Image Sizes (Height, Width, File Size)
 - Broken Link Checker
 - Highlight Links (Toggle)
+- Immediately tell if page is set ot no index
 
 ## Things To Change
 - Redesign the popup so that it's more clean and modular.
