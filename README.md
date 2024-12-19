@@ -15,6 +15,7 @@ This is a google extension. To install a google extension locally:
 - Broken Link Checker
 - Highlight Links (Toggle)
 - Check page if "No Index"
+- Popup that displays any warnings needed, like the no-index, maybe if an image doesn't have alt text?
 
 ## Things To Change
 - Redesign the popup so that it's more clean and modular.
