@@ -16,7 +16,7 @@ This is a google extension. To install a google extension locally:
 - Highlight Links (Toggle)
 - Check page if "No Index"
 - Popup that displays any warnings needed, like the no-index, maybe if an image doesn't have alt text?
-- Spelling and grammar checker.
+- Spelling and grammar checker
 
 ## Things To Change
 - Redesign the popup so that it's more clean and modular.
